@@ -1,5 +1,9 @@
+.purana-jamana-vibes{
+    background-color: antiquewhite;
+    color: black;
+}
 .card{
-    background: black;
+    background: gray;
     border: 2px solid black ;
     border-radius: 2px;
     color: yellow;
@@ -7,10 +11,16 @@
     padding: 10px;
 }
 
+button{
+    background-color: goldenrod;
+    color: aquamarine;
+}
+
 
 .input-box{
-    height: 40px;
-    width: 40px;
-
+    height: 140px;
+    width: 80%;
+    display: block;
+    margin: 20px 0 20px 0;
 }
 
